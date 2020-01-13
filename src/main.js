@@ -1,1 +1,4 @@
-console.log('webpack demo')
+
+(function() {
+    console.log('webpack demo123')
+})()
